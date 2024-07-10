@@ -40,7 +40,7 @@ Indore, India
 
 ### Umpteen Innovation
 **React.js Developer Intern**  
-*Mar 2023 – May 2023*  
+*feb 2023 – Jul 2023*  
 Bhopal, India
 
 - Worked collaboratively with a team of developers to design and develop a responsive web application using React.js and Tailwind CSS.
